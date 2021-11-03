@@ -2,7 +2,7 @@
 
 ### Hello there!
 
-My name is Rico also known as "Blume" and I'm a fullstack developer working with mainly React, Typescript and Node.js.
+My name is Rico also known as "Blume" and I'm a fullstack developer working with React, Typescript and Node.js.
 
 While I'm working as a professional frontend developer I also enjoy building backend applications, bots or just plain simple scripts to ease my everyday work. Since I don't have many opportunities at work to fulfill my desire of learning more about what lies beyond the small crazy frontend domain I use my freetime to create projects with which I hopefully learn whatever I'm missing out on otherwise.
 
