@@ -1,5 +1,3 @@
-![](https://cloud.bitmonk.de/s/AG7wwpogaijXmgp/preview)
-
 ## Hello there!
 
 My name is Rico also known as "Blume" and I'm a fullstack developer working with React, Typescript and Node.js.
