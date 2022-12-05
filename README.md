@@ -20,8 +20,4 @@ One of the projects I'm currently working on is a discord bot build with [Molecu
 
 If you're interested in the bot you can checkout [Bakatron's official website](https://bakatron.app) or the [Bakatron support server](https://discord.gg/xjkqCJUqfe)
 
-#### klarheit frontend toolkit
-My newer project is @klarheit which I created as a result of working on Bakatron. Since I created a lot of UI components for the frontend application I thought it would make sense to maybe move them to a separate toolkit project where I can manage them and perhaps also use them in other future projects. Maybe some people get interested in using it as well. It's still in its early stages but there is already a webpack react boilerplate that can be installed with a CLI.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=btmnk&repo=klarheit)](https://github.com/btmnk/klarheit)
-
+.. Yes, it's just the one. For now.
