@@ -5,7 +5,7 @@ My name is Rico also known as "Blume" and I'm a fullstack developer working with
 While I'm working as a professional frontend developer I also enjoy building backend applications, bots or just plain simple scripts to ease my everyday work. Since I don't have many opportunities at work to fulfill my desire of learning more about what lies beyond the small crazy frontend domain I use my freetime to create projects with which I hopefully learn whatever I'm missing out on otherwise.
 
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/OS-Windows+WSL+Mac-informational?style=for-the-badge&logo=windows&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/OS-Windows+WSL-informational?style=for-the-badge&logo=windows&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=007ACC)
 
 ---
