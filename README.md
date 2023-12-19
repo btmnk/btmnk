@@ -15,9 +15,12 @@ While I'm working as a professional frontend developer I also enjoy building bac
 
 ## Some of my projects
 
-#### Bakatron Discord Bot
+#### Kumo Discord Bot
 One of the projects I'm currently working on is a discord bot build with [Moleculer](https://moleculer.services/) and [Discord.js](https://discord.js.org/#/). Since I usually don't hesitate to go overboard with private projects I also build the application as a microservice system which is deployed with kubernetes on a small cluster.
 
-If you're interested in the bot you can checkout [Bakatron's official website](https://bakatron.app) or the [Bakatron support server](https://discord.gg/xjkqCJUqfe)
+If you're interested in the bot you can checkout [Kumo's official website](https://kumo.gg) or the [Kumo support server](https://discord.gg/xjkqCJUqfe)
 
-.. Yes, it's just the one. For now.
+#### REX
+REX is a utility library for React with components, hooks and functions that don't fit into existing component libraries and solve very specific ui problems.
+
+Check out the [documentation](https://etecture.github.io/rex/) or the [source code](https://github.com/etecture/rex)
