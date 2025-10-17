@@ -23,10 +23,10 @@ REX is a utility library for React with components, hooks and functions that don
 
 Check out the [documentation](https://etecture.github.io/rex/) or the [source code](https://github.com/etecture/rex)
 
-## Projects that I recommend
+## Things I like to work with
 
-- [Mantine](https://mantine.dev/) - I dare to say it's the best ui library currently available in open source
+- [Mantine](https://mantine.dev/) - I dare to say it's the best react ui library currently available
 - [Drizzle ORM](https://orm.drizzle.team/) - Makes working with your database a lot easier and still provides a way to make your queries fast where it's necessary
-- [Biome](https://biomejs.dev/) - The shining star among formatters and linters currently
+- [Biome](https://biomejs.dev/) - The shining star among formatters and linters
 - [Bun](https://bun.sh/) - Everything I **can** run with bun I **will** run with bun
-- [tRPC](https://trpc.io/) - Whenever I'm not already using a framework like next.js where I can use server actions I use tRPC to handle data transfer.
+- [orpc](https://orpc.unnoq.com/) - Type safety is key and orpc helps to bridge backend and frontend to create a complete full stack experience
