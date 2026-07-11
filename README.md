@@ -9,7 +9,7 @@ I always try to combine these aspects to create a product that people enjoy to u
 ![](https://img.shields.io/badge/OS-Windows+WSL-informational?style=for-the-badge&logo=windows&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=007ACC)
 
-[![Top Langs](https:/github-stats-extended.vercel.app/api/top-langs/?username=btmnk&hide=python&layout=compact&theme=radical&show_icons=true)](https://github.com/btmnk/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=btmnk&layout=compact&langs_count=4&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=btmnk&layout=compact&langs_count=4&hide_values=true&theme=dark)
 
 ## Some of my projects
 
