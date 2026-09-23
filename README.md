@@ -1,6 +1,6 @@
 ## Hello there!
 
-My name is Rico also known as "Blume" and I'm a fullstack developer working with React, Typescript and Node.js.
+My name is Rico, also known as "Blume", and I'm a fullstack developer working primarily with Typescript, React and Bun.
 
 For me software development is a craftsmanship where elegance and aesthetic are just as important as efficiency and functionality. \
 I always try to combine these aspects to create a product that people enjoy to use.
@@ -14,14 +14,9 @@ I always try to combine these aspects to create a product that people enjoy to u
 ## Some of my projects
 
 #### Kumo Discord Bot
-One of the projects I'm currently working on is a discord bot build with [Moleculer](https://moleculer.services/) and [Discord.js](https://discord.js.org/#/). Since I usually don't hesitate to go overboard with private projects I also build the application as a microservice system which is deployed with kubernetes on a small cluster.
+One of the projects I'm currently working on is a discord bot. It's a highly available distributed system on a self hosted kubernetes cluster. Messaging between the services is powered by a (for now) private microservice-ish framework that makes developer experience a bliss with strong typesafety and simple APIs. 
 
-If you're interested in the bot you can checkout [Kumo's official website](https://kumo.gg) or the [Kumo support server](https://discord.gg/xjkqCJUqfe)
-
-#### REX
-REX is a utility library for React with components, hooks and functions that don't fit into existing component libraries and solve very specific ui problems.
-
-Check out the [documentation](https://etecture.github.io/rex/) or the [source code](https://github.com/etecture/rex)
+If you're interested in the bot you can checkout [Kumo's official website](https://kumo.gg) or the [Kumo support server](https://discord.gg/xjkqCJUqfe).
 
 ## Things I like to work with
 
